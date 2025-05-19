@@ -1,2 +1,2 @@
 # Neural network algoritmhs from scratch
-This project contains the implementation of some of the neural network algorithms and examples that I use in my classes 
+This project provides implementations of various neural network algorithms and example models used in my classes.
